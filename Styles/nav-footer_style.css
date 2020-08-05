@@ -91,28 +91,7 @@ nav ul div ul li a:hover{
 	transition: all .5s;
 }
 
-/*  --NAV IMAGE--  */
-.container {
-  position: relative;
-  width: 100%;
-  margin: 0 auto;
-  top: -60px;
-}
-.container img {
-	vertical-align: middle;
-}
-.content {
-  position: absolute;
-  bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  width: 100%;
-  padding: 20px 80px;
-}
-.content p{
-	font-size: 13px;
-}
+
 
 /*   --FOOTER--  */
 .footer{
