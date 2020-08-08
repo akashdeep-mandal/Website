@@ -51,7 +51,7 @@ nav ul li a{
 .sub-menu1:hover{
 	opacity: 1;
 }
-nav ul li a:hover{
+nav ul li a:hover:not(.not_hover){
 	cursor: pointer;
 	opacity: .7; 
 	transition: all .5s;
